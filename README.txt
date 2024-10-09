@@ -28,6 +28,8 @@ $ psql -d db-agribalyse -f create-tables-std.sql
 $ psql -d db-agribalyse -f insert.sql
 
 
-- Then you can run the notebook "foodtrack.ipynb"
+- Then you can run the notebook "foodtrack.ipynb" !
+	To do so, you simply need to enter a bar code in the 2nd cell and run all the cells
+	(Some examples of bar codes are provided in a commentary)
 
 
