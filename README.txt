@@ -28,6 +28,6 @@ $ psql -d db-agribalyse -f create-tables-std.sql
 $ psql -d db-agribalyse -f insert.sql
 
 
-- Then you can run the notebook "foodtrack.ipynb
+- Then you can run the notebook "foodtrack.ipynb"
 
 
