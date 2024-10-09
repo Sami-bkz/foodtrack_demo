@@ -2,7 +2,7 @@ Requirements : PostgreSQL (v9 or higher), libpq-dev (sudo apt-get install libpq-
 	* numpy
 	* pandas
 	* requests
-	* dotenv
+	* python-dotenv
 	* psycopg2
 
 
