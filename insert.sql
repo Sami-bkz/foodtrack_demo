@@ -1,0 +1,1 @@
+\copy Carbon_footprint FROM './database_agribalyse_demo.csv' DELIMITER ';' CSV HEADER ENCODING 'UTF8';
